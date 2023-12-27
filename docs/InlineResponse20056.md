@@ -1,0 +1,38 @@
+# SwaggerClient::InlineResponse20056
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**adult** | [****](.md) |  | [optional] 
+**backdrop_path** | [****](.md) |  | [optional] 
+**created_by** | [****](.md) |  | [optional] 
+**episode_run_time** | [****](.md) |  | [optional] 
+**first_air_date** | [****](.md) |  | [optional] 
+**genres** | [****](.md) |  | [optional] 
+**homepage** | [****](.md) |  | [optional] 
+**id** | [****](.md) |  | [optional] 
+**in_production** | [****](.md) |  | [optional] 
+**languages** | [****](.md) |  | [optional] 
+**last_air_date** | [****](.md) |  | [optional] 
+**last_episode_to_air** | [**InlineResponse20056LastEpisodeToAir**](InlineResponse20056LastEpisodeToAir.md) |  | [optional] 
+**name** | [****](.md) |  | [optional] 
+**next_episode_to_air** | [****](.md) |  | [optional] 
+**networks** | [****](.md) |  | [optional] 
+**number_of_episodes** | [****](.md) |  | [optional] 
+**number_of_seasons** | [****](.md) |  | [optional] 
+**origin_country** | [****](.md) |  | [optional] 
+**original_language** | [****](.md) |  | [optional] 
+**original_name** | [****](.md) |  | [optional] 
+**overview** | [****](.md) |  | [optional] 
+**popularity** | [****](.md) |  | [optional] 
+**poster_path** | [****](.md) |  | [optional] 
+**production_companies** | [****](.md) |  | [optional] 
+**production_countries** | [****](.md) |  | [optional] 
+**seasons** | [****](.md) |  | [optional] 
+**spoken_languages** | [****](.md) |  | [optional] 
+**status** | [****](.md) |  | [optional] 
+**tagline** | [****](.md) |  | [optional] 
+**type** | [****](.md) |  | [optional] 
+**vote_average** | [****](.md) |  | [optional] 
+**vote_count** | [****](.md) |  | [optional] 
+

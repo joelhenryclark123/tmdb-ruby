@@ -1,0 +1,7 @@
+# SwaggerClient::ListIdAddItemBody
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**raw_body** | [****](.md) |  | [optional] 
+

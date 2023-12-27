@@ -1,0 +1,8 @@
+# SwaggerClient::InlineResponse20027
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | [****](.md) |  | [optional] 
+**results** | [****](.md) |  | [optional] 
+
